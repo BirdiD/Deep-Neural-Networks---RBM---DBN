@@ -1,0 +1,2 @@
+# Deep-Neural-Networks---RBM---DBN
+In this project, I build from scratch a deep neural network pre-trained (or not) for the classification of handwritten digits. The main goal is to compare the performances, in terms of good classification rates, of a pre-trained network and a randomly initialized network, according to the input data, the number of network layers and finally the number of neurons per layer. In the last section, we try to determine the architechture and hyperparameters giving the lowest classification error rate.
